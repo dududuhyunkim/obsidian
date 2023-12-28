@@ -8,19 +8,163 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fba99ec8a9a69580",
+            "id": "ce5ece551f58d886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Nestjs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fff8e85c0178c618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON Web Token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e208948e432d247f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON Web Token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0540f07f582fe913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON Web Token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc382b826e1cf187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고자료(WEB)/auth0 - uri-url-urn/URL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ddc2903859d50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고자료(WEB)/auth0 - uri-url-urn/URL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10eb09876cbf305a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고자료(WEB)/auth0 - uri-url-urn/URL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1386400815931832",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON Web Token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49c5a917257b332f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nestjs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731d744ce41e1512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "서적/헤드퍼스트-디자인-패턴/01-디자인-패턴-소개와-전략-패턴.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34cb380851d38670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/HMAC.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbb41d35437e2260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/RSA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -70,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "right": {
     "id": "6663c87e4ad6242e",
@@ -86,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "서적/헤드퍼스트-디자인-패턴/01-디자인-패턴-소개와-전략-패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "서적/헤드퍼스트-디자인-패턴/01-디자인-패턴-소개와-전략-패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "서적/헤드퍼스트-디자인-패턴/01-디자인-패턴-소개와-전략-패턴.md"
               }
             }
           },
@@ -159,11 +303,39 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "fba99ec8a9a69580",
+  "active": "ed8c680bb34d82fc",
   "lastOpenFiles": [
-    "publish.css",
-    "Untitled.md",
+    "서적/헤드퍼스트-디자인-패턴/summary.md",
+    "서적/헤드퍼스트-디자인-패턴/01-디자인-패턴-소개와-전략-패턴.md",
+    "파레토 법칙.md",
+    "서적/헤드퍼스트-디자인-패턴/chapter-01/디자인-패턴-소개와-전략-패턴.md",
+    "서적/헤드퍼스트-디자인-패턴/chapter-01/source",
+    "서적/헤드퍼스트-디자인-패턴/chapter-01",
+    "Nestjs.md",
+    "서적/헤드퍼스트 디자인 패턴.md",
+    "서적/헤드퍼스트-디자인-패턴/헤드퍼스트 디자인 패턴.md",
+    "서적/헤드퍼스트-디자인-패턴",
+    "hello.ts",
+    "서적",
+    "개발공부/모든 개발자를 위한 HTTP 웹 기본 지식.md",
+    "개발공부/이펙티브 타입스크립트.md",
+    "hash.md",
+    "JSON Web Token.md",
+    "Claim.md",
+    "IP.md",
+    "알고리즘/RSA.md",
+    "알고리즘/HMAC.md",
+    "참고자료(WEB)/auth0 - uri-url-urn/URN.md",
+    "참고자료(WEB)/auth0 - uri-url-urn/URL.md",
+    "참고자료(WEB)/auth0 - uri-url-urn/URI.md",
+    "참고자료(WEB)/auth0 - uri-url-urn",
+    "참고자료(WEB)",
+    "Protocol.md",
     "README.md",
+    "알고리즘",
+    "개발공부/Floating Point.md",
+    "개발공부",
+    "publish.css",
     "2023-12-15.md",
     "Untitled.canvas"
   ]
